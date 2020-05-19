@@ -6,7 +6,7 @@ class Shoe
   end 
 
   def cobble
-    shoe_condtion = "new"
+    shoe.condtion = "new"
     puts "Your shoe is as good as new!"
   end 
 end 
